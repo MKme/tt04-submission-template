@@ -1,5 +1,36 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg)
 
+
+<p align="center">
+<br>
+ <img src="https://github.com/MKme/Machine-Learning/blob/main/Photos/machine-learning.jpg" width="700"/>
+ <br>
+
+<br>
+<br>
+🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
+| 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
+| 🌍 <a href="http://www.mkme.org">mkme.org</a><br>
+Support this project and become a patron on <a href="http://mkme.org/patreon">Eric's Patreon</a>.<br>
+Website, Forum and store are at http://mkme.org <br>
+Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
+</p>
+
+
+#  8 Bit Digital Zipher
+Simple cipher using 8 bit IO 
+
+## The Idea
+8 bit input. One combination opens the lock and powers the output. 255 combinations do not. 
+
+Imagine this project has been done to death but this will be my first ASIC. 
+
+## The reason
+
+I want to support the tinytapeout initiative and also spread the knowledge on how to make fun projects and learn new skills. Having made ones' own IC is quite cool. 
+
+
+
 # What is Tiny Tapeout?
 
 TinyTapeout is an educational project that aims to make it easier and cheaper than ever to get your digital designs manufactured on a real chip!
