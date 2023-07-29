@@ -15,7 +15,8 @@ Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 </p>
 
 
-#  8 Bit Digital Zipher
+#  8 Bit Digital Cipher
+
 Simple cipher using 8 bit IO 
 
 ## The Idea
@@ -28,6 +29,7 @@ Imagine this project has been done to death but this will be my first ASIC.
 I want to support the tinytapeout initiative and also spread the knowledge on how to make fun projects and learn new skills. Having made ones' own IC is quite cool. 
 
 ## How it works
+
 Can be used as a simple puzzle demo or as a safety chain/interlock on equipment.
 Being hardware interlocks without microcontroller logic it should be acceptable in
 some industry certifications. The high or low input can be tied to the sensors and
@@ -38,7 +40,7 @@ OKAY/HIGH. NO and NC switches/sensors can be tied to the appropriate pins.
 Provide below inputs on the required pins to activate output
 ## IO
 
-# Input Output Bidirectional
+Input Output Bidirectional
 0 HIGH HIGH none
 1 LOW NA none
 2 HIGH NA none
