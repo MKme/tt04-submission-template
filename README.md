@@ -2,9 +2,7 @@
 
 
 <p align="center">
-<br>
- <img src="https://github.com/MKme/Machine-Learning/blob/main/Photos/machine-learning.jpg" width="700"/>
- <br>
+
 
 <br>
 <br>
@@ -29,7 +27,27 @@ Imagine this project has been done to death but this will be my first ASIC.
 
 I want to support the tinytapeout initiative and also spread the knowledge on how to make fun projects and learn new skills. Having made ones' own IC is quite cool. 
 
+## How it works
+Can be used as a simple puzzle demo or as a safety chain/interlock on equipment.
+Being hardware interlocks without microcontroller logic it should be acceptable in
+some industry certifications. The high or low input can be tied to the sensors and
+switches in the safety chain. Only when all are in the desired state will the output be
+OKAY/HIGH. NO and NC switches/sensors can be tied to the appropriate pins.
 
+## How to test
+Provide below inputs on the required pins to activate output
+## IO
+
+# Input Output Bidirectional
+0 HIGH HIGH none
+1 LOW NA none
+2 HIGH NA none
+3 HIGH NA none
+4 LOW NA none
+# Input Output Bidirectional
+5 HIGH NA none
+6 LOW NA none
+7 HIGH NA none
 
 # What is Tiny Tapeout?
 
