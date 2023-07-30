@@ -36,6 +36,8 @@ some industry certifications. The high or low input can be tied to the sensors a
 switches in the safety chain. Only when all are in the desired state will the output be
 OKAY/HIGH. NO and NC switches/sensors can be tied to the appropriate pins.
 
+https://wokwi.com/projects/371604537887211521
+
 ## How to test
 Provide below inputs on the required pins to activate output
 ## IO
